@@ -1,9 +1,7 @@
 > ![Image](https://github.com/user-attachments/assets/188fd1fc-ee06-4466-8f23-33ee1559fbfd)
 
 > [!NOTE]
-> - Your ultimate digital bodyguard
-This Magisk module provides system-level protection by blocking ads, trackers, and malicious domains. It ensures a clean environment for your apps, faster and safer web browsing, and enhanced privacy without sacrificing performance.
-Stay secure, stay focused — effortlessly.
+> - Blocks ads, trackers, and malware at the system level. Keeps apps clean, browsing fast, and your privacy protected.
 <hr/>
 
 > [!IMPORTANT]
