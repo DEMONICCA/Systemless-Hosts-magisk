@@ -1,47 +1,44 @@
 > ![Image](https://github.com/user-attachments/assets/188fd1fc-ee06-4466-8f23-33ee1559fbfd)
 
 > [!NOTE]
-> Description 📝:
 > - Your digital bodyguard. This Magisk module removes ads and malware, keeps your apps clean and your browsing smooth. Surf smart, surf safe!.
 <hr/>
 
 > [!IMPORTANT]
-> Features 🚀:
-> 1. Ultimate Hosts. ✔️
-> 2. Covers several sources such as.
-[ [WZT](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt) | [VN](https://raw.githubusercontent.com/bigdargon/hostsVN) | [extended](https://www.github.developerdan.com/hosts/lists/) ] ✔️
-> 3. Thank you for the following sources
-I apologize if there are some sources that are not listed. ✔️
+> Features ✨:
+> 1. Ultimate+ Hosts. ✔️
 <hr/>
 
 > [!TIP]
-> Installation ✳️:
-> 1. Make sure Magisk, KSU, or Apatch is Installed
-> 2. Download [Module](https://t.me/modulkuntul)
-> 3. Installation via Magisk/KSU/Apatch Manager
-> 4. Reboot the device after the installation is complete.
+> 1. Supports `Magisk` `KernelSU - NEXT` `APatch` dan `SukiSU`.
+> 2. Minimum Android `9 sdk 28`.
+> 3. I'm sorry, but I can't display the full list of hosts' sources ✍️ due to the large number of entries. I appreciate your understanding.
+<hr/>
+
+> Download the module here 📦:                  
+> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
+> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
 <hr/>
 
 > [!WARNING]
 > Disclaimers 🛡️:
-> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
+> - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.
 <hr/>
 
 > [!CAUTION]
 > Warning ☢️:
-> - This module is used at your own risk. The developer is not responsible for any damage that may result from the installation or use of this module.
-> - Use this module at your own risk. Misconfiguration may cause problems such as bootloop or system instability.
-> - Make sure you have access to recovery mode (TWRP/ADB) before installing this module, just in case something goes wrong.
+> 1. Use of this module is the sole responsibility of the user. The developer is not responsible for any damage or malfunctions that may occur as a result of the installation or use of this module.
+> 2. This module can modify certain parts of the system. Under certain conditions or configurations, misuse may cause problems such as bootloops or system instability.
+> 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
 <hr/>
 
 <div align="center">
-  If you like my work, please follow me or star my work on GitHub       
- 
-  You can also show your concern by donating below.
+If you like this work, please star ⭐ or follow me on GitHub.
+Your support means a lot and helps me to continue developing open source projects.
+You can also show further appreciation by donating below
 <div align="center">
- </div>
 <hr/>
-  
+
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
 [![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
